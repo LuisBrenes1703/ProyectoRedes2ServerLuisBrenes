@@ -31,3 +31,5 @@ brinda la Universidad de Costa Rica.
 
 
 Autor: Luis Fernando Brenes Sanabria
+
+Si desea ver como correr un proyecto visite la wiki luego manual de usuario
